@@ -18,14 +18,14 @@
 #.  1. default constructor
 #.  2. Parameteric constructor
 
-class Car:
-    company = "TATA"
-    def __init__(self, name): #self is point new object car1
-        self.name = name
-        print('Have my dream car')
+# class Car:
+#     company = "TATA"
+#     def __init__(self, name): #self is point new object car1
+#         self.name = name
+#         print('Have my dream car')
     
-car1 = Car("tiago")
-print(car1.name)
-print(Car.company)
+# car1 = Car("tiago")
+# print(car1.name)
+# print(Car.company)
 
 
